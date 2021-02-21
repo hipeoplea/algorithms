@@ -21,4 +21,4 @@ my_list = [x for x in range(1, 100000)]
 print(binary_search(my_list, 3))
 
 # time = 0.003675701#
-# O(log n)
+#  O(log n)
